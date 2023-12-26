@@ -1,0 +1,19 @@
+<div style="text-align:center;">
+<img style="width: 10%;"src="logo.png">
+</div>
+<div style="text-align:center;margin-top:10px;">
+<a style="padding-right:20px;font-size:30px"href="home.html">home</a>
+<a style="padding-right:20px;font-size:30px"href="about.html">about</a>
+
+</div>
+<h1 style="font-size:30px;text-align:center;">"EXCITING INNINGS IN CRICKET FLAVOR"</h1>
+<P style="font-size:30px;text-align:center; line-height: 50px;margin-bottom:30px;">Cricket matches are divided into innings<br> with each team taking turns to bat and bowl. The batting team aims to score runs <br>by hitting the ball and running between the wickets, while the bowling and fielding team seeks to<br> dismiss the batsmen and limit the runs scored. Cricket has various formats, including Test matches<br> One Day Internationals (ODIs), and Twenty20 (T20) matches, each with its own set of rules and durations.</p>
+<div style="text-align:center;"><a style="font-size:20px;background-color:green;padding:15px 30px 15px 30px;color:white;"href="https://www.google.com/">Read more</a></div>
+
+
+<h1 style="font-size:30px;text-align:center;">OUR ESSENTIAL CRICKET FLAVORS" </h1>
+
+<img style="width: 30%;"src="cricket.png">
+<img style="width: 30%;"src="cricket2.png">
+<img style="width: 27%;"src="cricket3.png">
+
